@@ -1,0 +1,22 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.so.*
+
+# Build directories
+build/
+*.tmp
+
+# Archives
+*.tar.*
+*.zip
+
+# Logs
+*.log
+.ninja_log
+
+# Large binary files (optional - можемо не включати)
+# u-boot/u-boot.bin
+# linux-stable/arch/arm/boot/zImage
+# busybox/busybox_unstripped
